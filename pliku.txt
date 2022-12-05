@@ -1,1 +1,4 @@
 Zamiana w pliku
+
+
+dodanie nowej, eksperymentalnej funkcjonalności
